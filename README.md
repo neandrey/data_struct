@@ -14,4 +14,4 @@
 * [Деревья](https://github.com/neandrey/data_struct/tree/main/tree)
 * [Множества](https://github.com/neandrey/data_struct/tree/main/set)
 * [Map](https://github.com/neandrey/data_struct/tree/main/map)
-* Хеш-таблицы
+* [Хеш-таблицы](https://github.com/neandrey/data_struct/tree/main/hash)
