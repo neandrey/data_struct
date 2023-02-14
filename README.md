@@ -1,10 +1,6 @@
 # Решение задачи по курсу ["Структуры данных"](https://stepik.org/course/134212/syllabus) от Сергея Балакирева.
 
-___
-
 В данном репозитории представлены мои решения задач, возможно кому-то они помогут...
-
-___
 
 * [Статический массив](https://github.com/neandrey/data_struct/tree/main/static_array)
 * [Динамический массив](https://github.com/neandrey/data_struct/tree/main/dynamic_array)
@@ -15,5 +11,3 @@ ___
 * [Множества](https://github.com/neandrey/data_struct/tree/main/set)
 * [Map](https://github.com/neandrey/data_struct/tree/main/map)
 * Хеш-таблицы
-
-___
